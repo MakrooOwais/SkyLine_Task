@@ -1,5 +1,9 @@
 ## Image Masking and Post-Processing for Leaf Trait Extraction
 
+### Overview
+
+This project demonstrates an automated method for extracting and post-processing masks of a rectangular frame using techniques inspired by the paper "Automated Extraction of Phenotypic Leaf Traits of Individual Intact Herbarium Leaves from Herbarium Specimen Images Using Deep Learning Based Semantic Segmentation."
+
 ### Requirements
 
 - Python 3.x
