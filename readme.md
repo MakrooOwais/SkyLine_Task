@@ -4,6 +4,12 @@
 
 This project demonstrates an automated method for extracting and post-processing masks of a rectangular frame using techniques inspired by the paper "Automated Extraction of Phenotypic Leaf Traits of Individual Intact Herbarium Leaves from Herbarium Specimen Images Using Deep Learning Based Semantic Segmentation."
 
+## Output
+
+Here is the final output.
+
+![alt text](https://github.com/MakrooOwais/SkyLine_Task/blob/main/output.jpg?raw=true)
+
 ### Requirements
 
 - Python 3.x
@@ -73,8 +79,4 @@ pip install opencv-python numpy matplotlib scipy scikit-image
 17. **Creating and Applying the Final Mask**:
     - A final mask for the largest region is created and applied to the original image, displaying the result.
 
-## Output
 
-Here is the final output.
-
-![alt text](https://github.com/MakrooOwais/SkyLine_Task/blob/main/output.jpg?raw=true)
