@@ -72,3 +72,9 @@ pip install opencv-python numpy matplotlib scipy scikit-image
 
 17. **Creating and Applying the Final Mask**:
     - A final mask for the largest region is created and applied to the original image, displaying the result.
+
+## Output
+
+Here is the final output.
+
+![alt text](https://github.com/MakrooOwais/SkyLine_Task/blob/main/output.jpg?raw=true)
